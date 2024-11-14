@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Overview of the project
+
+This project is a task management application developed using React. The application features a user-friendly interface that enables users to easily manage and track tasks. Key functionalities include:
+
+- Task Creation: A clickable form allows users to add new tasks, capturing essential details such as the task title, description, due dates, and priority.
+- Task Categorization: Tasks are organized into categories based on their status: Upcoming Tasks, Overdue Tasks, and Completed Tasks.
+- Search Functionality: A search section enables users to quickly find tasks by their title, improving task accessibility and management.
+The application provides an intuitive experience for managing tasks while offering an efficient way to categorize and search tasks.
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
